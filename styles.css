@@ -1,0 +1,22 @@
+html {
+	font-size: 62.5%;
+	font-family: 'Lato', sans-serif;
+	background: black;
+
+}
+
+#headContainer {
+
+}
+
+#headContent {
+	color: rgba(255,255,255,0.75);
+	text-align: center;
+	font-size: 8rem;
+	border: 1px red solid;
+}
+
+#logo {
+	border: 1px red solid;
+	text-align: center;
+}
